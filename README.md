@@ -26,4 +26,4 @@ DBT
 - Checa no BigQuery se subiu o dataset corretamente (tabela transaction-transformed)
 
 * Dataset pronto pra equipe de ML criar o modelo
- 
+
